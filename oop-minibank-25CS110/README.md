@@ -1,4 +1,4 @@
-# OOP MiniBank - 25CS101 (Priyansh)
+# OOP MiniBank - 25CS110 (Devarsh)
 
 Each `Practical_N` folder holds the Part A programs (`Q1_...`, `Q2_...`, `Q3_...`).
 
