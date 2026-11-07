@@ -1,5 +1,5 @@
 # oop-minibank-25CS110
-OOP MiniBank - 25CS101 (Priyansh)
+OOP MiniBank - 25CS110 (Devarsh)
 Each Practical_N folder holds the Part A programs (Q1_..., Q2_..., Q3_...).
 
 Compile and run (JDK 17+), from inside a question folder:
